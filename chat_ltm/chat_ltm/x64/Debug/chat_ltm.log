@@ -1,0 +1,22 @@
+﻿  chat_ltm.cpp
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(29,77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(40,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(62,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(74,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(83,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(83,16): message : consider using '%lld' in the format string
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(83,16): message : consider using '%Id' in the format string
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(83,16): message : consider using '%I64d' in the format string
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(85,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(94,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(99,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(108,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(110,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(122,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(134,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(154,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(154,16): message : consider using '%lld' in the format string
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(154,16): message : consider using '%Id' in the format string
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(154,16): message : consider using '%I64d' in the format string
+D:\database\chat_ltm\chat_ltm\chat_ltm.cpp(149,10): warning C4101: 'buffer': unreferenced local variable
+  chat_ltm.vcxproj -> D:\database\chat_ltm\x64\Debug\chat_ltm.exe
